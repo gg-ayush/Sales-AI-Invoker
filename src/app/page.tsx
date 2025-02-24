@@ -25,7 +25,7 @@ export default function Home() {
             className="max-w-lg object-contain"
           />
           <p className="text-center max-w-[500px]">
-            You AI powered sales assistant! Embed Echo AI into any website 
+            You AI powered sales assistant! Embed Invoker AI into any website 
             with just a snippet of code!
           </p>
           <Button className="bg-orange font-bold text-white px-4">
