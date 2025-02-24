@@ -29,7 +29,7 @@ const SubscriptionForm = ({ plan }: Props) => {
 
           <SubscriptionCard
             title="PRO"
-            description="Perfect if you’re just getting started with Mars AI"
+            description="Perfect if you’re just getting started with Invoker AI"
             price="67"
             payment={payment}
             onPayment={onSetPayment}
@@ -38,7 +38,7 @@ const SubscriptionForm = ({ plan }: Props) => {
 
           <SubscriptionCard
             title="ULTIMATE"
-            description="Perfect if you’re growing with Mars AI"
+            description="Perfect if you’re growing with Invoker AI"
             price="97"
             payment={payment}
             onPayment={onSetPayment}

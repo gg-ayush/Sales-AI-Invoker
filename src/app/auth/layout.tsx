@@ -30,10 +30,10 @@ const Layout = async ({children}: Props) => {
         <div className="hidden lg:flex flex-1 w-full max-h-full max-w-[4000px] overflow-hidden relative bg-cream flex-col pt-10 pl-24 gap-3 dark:bg-slate-950">
             <h2 className="text-gravel md:text-4xl font-bold">
                 Hi, I&apos;m your AI powered sales assistant,
-                MARS! 
+                INVOKER! 
             </h2>
             <p className="text-iridium md:text-sm mb-10">
-                MARS is capable of capturing lead information without a form...{' '}
+                INVOKER is capable of capturing lead information without a form...{' '}
                 <br />
                 <span className="text-iridium font-semibold">something never done before !</span>
             </p>

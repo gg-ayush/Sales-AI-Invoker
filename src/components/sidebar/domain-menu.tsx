@@ -29,7 +29,7 @@ const DomainMenu = ({ domains, min }: Props) => {
       <div className='flex justify-between w-full items-center'>
         {!min && <p className='text-xs text-gray-500'>DOMAINS</p>}
         <AppDrawer 
-          description='add in your domain address to integrate MARS' 
+          description='add in your domain address to integrate INVOKER' 
           title='Add your business domain' 
           onOpen={
             <div className='cursor-pointer text-gray-500 rounded-full border-2'>
