@@ -72,7 +72,7 @@ NEXT_PUBLIC_STRIPE_PUBLISH_KEY="your-stripe-public-key"
 # Database (PostgreSQL)
 DATABASE_URL="your-database-url"
 ```
-**Important:** Never expose `.env` file contents publicly!  
+**Important:** Never expose `.env` file contents publicly! Secure your keys.
 
 ---  
 
