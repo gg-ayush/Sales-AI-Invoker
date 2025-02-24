@@ -28,7 +28,7 @@ Ensure you have the following installed:
 
 #### 1️⃣ Clone the repository  
 ```bash
-git clone https://github.com/yourusername/your-repository.git
+git clone https://github.com/gg-ayush/Sales-AI-Invoker.git
 cd your-repository
 ```
 
